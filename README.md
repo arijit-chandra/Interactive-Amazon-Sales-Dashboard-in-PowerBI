@@ -8,3 +8,7 @@ From data cleaning to visualization, the project showcased a range of skills inc
 - Data Modeling to create relationships and optimize data structure.
 - Visualization techniques to present insights engagingly.
 
+
+
+
+![amazonsales](https://github.com/user-attachments/assets/d2438cc2-ea4c-4f27-8295-81945c80f668)
